@@ -6,7 +6,7 @@ I’m **Exly**, an animator and programmer based in Romania. I enjoy combining v
 - Script prototypes, utilities, and small projects in Python
 - Explore lower-level and object-oriented concepts with C++ and Java
 - Experiment with animation, game logic, and creative coding
-#Interests
+# Interests
 - The Touhou Project (probably a bit too much)
 - Vocaloid and music-driven projects
 - Learning new languages, engines, and tools related to game development
