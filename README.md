@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hey there!
+I’m **Exly**, an animator and programmer based in Romania. I enjoy combining visuals and code to build interactive, game-inspired experiences.
 
-<!--
-**Exly78/Exly78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What I do
+- Develop gameplay systems and tools using Luau (Roblox)
+- Script prototypes, utilities, and small projects in Python
+- Explore lower-level and object-oriented concepts with C++ and Java
+- Experiment with animation, game logic, and creative coding
+#Interests
+- The Touhou Project (probably a bit too much)
+- Vocaloid and music-driven projects
+- Learning new languages, engines, and tools related to game development
