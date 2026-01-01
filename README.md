@@ -1,10 +1,10 @@
-#Hey there
+# Hey there
 I’m Exly, an animator and programmer based in Romania. I enjoy combining visuals and code to build interactive, game-inspired experiences.
 
 # Background
 Started animating at age 8 using Source Filmmaker (SFM), inspired by FNAF fan animations. Began coding about 4 years ago with Roblox scripting in Luau, then expanded to Python for tools and automation. Now exploring C++ and Java while balancing high school studies with personal game dev projects.
 
-#What I do
+# What I do
 - Develop gameplay systems and tools using Luau (Roblox)
 - Script prototypes, utilities, and small projects in Python (especially automating tasks in games I play)
 - Explore lower-level and object-oriented concepts with C++ and Java
