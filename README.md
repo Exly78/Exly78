@@ -8,11 +8,11 @@ I started animating at age 8 using Source Filmmaker (SFM), inspired by FNAF fan 
 - Develop gameplay systems and tools using Luau 
 - Script prototypes, utilities, and small projects in Python (especially automating tasks in games I play)
 - Explore lower-level and object-oriented concepts with C++ and Java
-- Experiment with animation, game logic, and creative coding
+- Experiment with game logic and creative coding
 
 # Interests
 - The Touhou Project 
-- Vocaloid and music-driven projects
+- Vocaloid and music driven projects
 - Big FNAF fan 
 - Project Moon games
 - Learning new languages, engines, and tools related to game development
